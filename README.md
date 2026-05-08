@@ -132,6 +132,7 @@
 | API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [AniDB](https://wiki.anidb.net/HTTP_API_Definition) | Anime Database | `apiKey` | No | Yes |
+| [Anijam](https://www.anijam.ai) | An AI animation tool for creating anime and animated videos with one-click generation, consistent characters and automatic lip-syncing | No | Yes | Yes |
 | [AniList](https://github.com/AniList/ApiV2-GraphQL-Docs) | Anime discovery & tracking | `OAuth`| Yes | Unknown |
 | [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php) | Anime industry news | No | Yes | Yes |
 | [Danbooru Anime](https://danbooru.donmai.us/wiki_pages/help:api) | Thousands of anime artist database to find good anime art | `apiKey` | Yes | Yes |
