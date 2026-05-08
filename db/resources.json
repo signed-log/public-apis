@@ -1,5 +1,5 @@
 {
-"count": 1580,
+"count": 1581,
 "entries": [
     {
         "API": "Cat Facts",
@@ -197,6 +197,15 @@
         "HTTPS": false,
         "Cors": "yes",
         "Link": "https://wiki.anidb.net/HTTP_API_Definition",
+        "Category": "Anime"
+    },
+    {
+        "API": "Anijam",
+        "Description": "An AI animation tool for creating anime and animated videos with one-click generation, consistent characters and automatic lip-syncing",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://www.anijam.ai",
         "Category": "Anime"
     },
     {
