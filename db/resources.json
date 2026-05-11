@@ -1,5 +1,5 @@
 {
-"count": 1581,
+"count": 1582,
 "entries": [
     {
         "API": "Cat Facts",
@@ -13697,6 +13697,15 @@
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://rulesofacquisition.herokuapp.com/",
+        "Category": "Video"
+    },
+    {
+        "API": "Shoof Aflam",
+        "Description": "Arabic streaming guide — search 14,000+ movies/series, platform availability across 18 services",
+        "Auth": "",
+        "HTTPS": true,
+        "Cors": "yes",
+        "Link": "https://shoofaflam.tv/api-docs/",
         "Category": "Video"
     },
     {
